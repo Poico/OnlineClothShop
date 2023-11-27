@@ -1,0 +1,1 @@
+﻿Select Admin from Utilizador where email='rodrigodecgomes@gmail.com'

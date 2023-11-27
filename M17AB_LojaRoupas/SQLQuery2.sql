@@ -1,0 +1,1 @@
+﻿Select DISTINCT count(IP) from Utilizador
